@@ -1,0 +1,228 @@
+
+.box{
+    height: 140px;
+    background-color: red;
+    /* border: 1px solid white; */
+}
+/*  */
+
+.box1{
+    height: 140px;
+    background-color: rgb(91, 21, 21);
+    /* border: 1px solid white; */
+}
+/*  */
+.box2{
+    height: 140px;
+    background-color: aqua;
+}
+/*  */
+
+.box3{
+    height: 140px;
+    background-color: aquamarine;
+}
+/*  */
+
+
+.box4{
+    height: 140px;
+    background-color: blanchedalmond;
+
+}
+/*  */
+
+.box5{
+    height: 140px;
+    background-color: blue;
+}
+
+/*  */
+.box6{
+    height: 140px;
+    background-color: blueviolet;
+}
+
+.box7{
+    height: 140px;
+    background-color: rgb(43, 49, 226);
+}
+
+.box8{
+    height: 140px;
+    background-color: rgb(0, 120, 14);
+}
+
+.box9{
+    height: 140px;
+    background-color: rgb(28, 49, 31);
+
+}
+
+.box10{
+    height: 140px;
+    background-color: rgb(46, 28, 49);
+
+}
+
+.box11{
+    height: 140px;
+    background-color: rgb(255, 0, 0);
+
+}
+
+/*  */
+
+
+.box12{
+    height: 140px;
+    background-color: green;
+}
+
+
+/*  */
+
+.self_align{
+    padding: 100px 0;
+    border: 1px solid red;
+}
+
+.box-13{
+    height: 140px;
+    background-color: aquamarine;
+}
+
+.box14{
+    height: 140px;
+    background-color: blueviolet;
+
+}
+
+
+.box-15{
+    height: 140px;
+    background-color: rgb(226, 43, 43);
+
+}
+
+.box-16{
+    height: 140px;
+    background-color: rgb(102, 50, 50);
+
+}
+
+/*  */
+
+.box17{
+    height: 140px;
+    background-color: rgb(50, 102, 63);
+
+
+}
+
+.box18{
+    height: 140px;
+    background-color: rgb(21, 239, 76);
+
+
+}
+
+.box19{
+    height: 140px;
+    background-color: rgb(98, 255, 140);
+
+
+}
+
+/*  */
+
+.box20{
+    height: 140px;
+    background-color: rgb(255, 255, 0);
+}
+
+.box21{
+    height: 140px;
+    background-color: rgb(255, 0, 255);
+}
+
+
+/*  */
+
+.box22{
+    height: 140px;
+    background-color: rgb(0, 255, 255);
+}
+
+.box23{
+    height: 140px;
+    background-color: rgb(255, 0, 0);           
+}
+
+/*  */
+
+.box24{
+    height: 140px;
+    background-color: rgb(0, 0, 255);
+
+}
+
+/*  */
+
+.box25{
+    height: 140px;
+    background-color: rgb(129, 54, 54);
+}
+
+
+/*  */
+
+/* gutters start here */
+
+/* .box26{
+    height: 140px;
+    background-color: rgb(125, 0, 0);
+}    */
+
+
+
+.br_design{
+    border:1px solid gray;
+    padding: 10px 5px;
+}
+
+/*  */
+
+
+
+/* css grid start here */
+
+
+.boxg1{
+    background-color: aquamarine;
+}
+
+.rounded_start_end{
+    overflow: hidden;
+}
+
+
+/* table start here */
+
+
+
+
+/* bootstrap 5 custom layout and show hide  */
+
+.header{
+    background-color: brown;
+}
+
+
+.boxr1{
+    background-color: aquamarine;
+    min-height: 80px;
+    margin: 10px 0;
+    color: white;
+    font-size: 22px;
+}
